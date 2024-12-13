@@ -9,12 +9,7 @@ Here, you’ll find projects, certifications, and experiences that highlight my 
 I’m always excited to collaborate on innovative initiatives or share knowledge—so feel free to explore my work, connect, or reach out. 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-leonor-duarte/) 
-
-
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leonorduarte&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leonorduarte&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonorduarte&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
