@@ -7,7 +7,7 @@ From managing international projects to diving deep into data insights, I thrive
 Here, you’ll find projects, certifications, and experiences that highlight my journey, from predicting trends with statistical models to streamlining workflows with Agile methodologies.
 
 I’m always excited to collaborate on innovative initiatives or share knowledge—so feel free to explore my work, connect, or reach out. 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-leonor-duarte/) 
